@@ -1,5 +1,3 @@
-# my-reads-book-tracking--master
-
 ## Getting Started
 
 1. Download or clone repo 
@@ -10,4 +8,5 @@
 ## Backend Server
 
 A backend server is provided in the location ```scr/BookAPI.js``` which also contains the methods needed to ```fecth``` the required assets.
+
 
